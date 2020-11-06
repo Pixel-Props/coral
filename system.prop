@@ -1,0 +1,203 @@
+##
+# Beautiful Pixel Props https://t.me/PixelProps
+# By @T3SL4
+##
+
+###
+#-#
+###
+
+###
+# begin product/build.prop
+###
+
+# begin common build properties
+ro.product.build.date=Mon Sep 28 21:18:29 UTC 2020
+ro.product.build.date.utc=1601327909
+ro.product.build.fingerprint=google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys
+ro.product.build.id=RP1A.201105.002
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=6869500
+ro.product.build.version.release=11
+ro.product.build.version.release_or_codename=11
+ro.product.build.version.sdk=30
+ro.product.product.brand=google
+ro.product.product.device=coral
+ro.product.product.manufacturer=Google
+ro.product.product.model=Pixel 4 XL
+ro.product.product.name=coral
+# end common build properties
+
+# begin ADDITIONAL PRODUCT PROPERTIES
+ro.opa.eligible_device=true
+ro.com.google.ime.theme_id=5
+ro.com.google.ime.bs_theme=true
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
+# end ADDITIONAL PRODUCT PROPERTIES
+
+###
+# end product/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin vendor/build.prop
+###
+
+ro.vendor.build.security_patch=2020-11-05
+
+# begin common build properties
+ro.vendor.build.date=Mon Sep 28 21:18:29 UTC 2020
+ro.vendor.build.date.utc=1601327909
+ro.vendor.build.fingerprint=google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys
+ro.vendor.build.id=RP1A.201105.002
+ro.vendor.build.tags=release-keys
+ro.vendor.build.type=user
+ro.vendor.build.version.incremental=6869500
+ro.vendor.build.version.release=11
+ro.vendor.build.version.release_or_codename=11
+ro.vendor.build.version.sdk=30
+ro.product.vendor.brand=google
+ro.product.vendor.device=coral
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 4 XL
+ro.product.vendor.name=coral
+# end common build properties
+
+# begin vendor/build.prop BOOTIMAGE_BUILD_PROPERTIES
+ro.bootimage.build.date=Mon Sep 28 21:18:29 UTC 2020
+ro.bootimage.build.date.utc=1601327909
+ro.bootimage.build.fingerprint=google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys
+# end vendor/build.prop BOOTIMAGE_BUILD_PROPERTIES
+
+# begin ADDITIONAL VENDOR BUILD PROPERTIES
+persist.rcs.supported=1
+# end DDITIONAL VENDOR BUILD PROPERTIES
+
+###
+# end vendor/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin system/system/build.prop
+###
+
+# begin common build properties
+ro.system.build.date=Mon Sep 28 21:18:29 UTC 2020
+ro.system.build.date.utc=1601327909
+ro.system.build.fingerprint=google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys
+ro.system.build.id=RP1A.201105.002
+ro.system.build.tags=release-keys
+ro.system.build.type=user
+ro.system.build.version.incremental=6869500
+ro.system.build.version.release=11
+ro.system.build.version.release_or_codename=11
+ro.system.build.version.sdk=30
+ro.product.system.brand=google
+ro.product.system.device=generic
+ro.product.system.manufacturer=Google
+ro.product.system.model=mainline
+ro.product.system.name=mainline
+# end common build properties
+
+# begin build properties
+ro.build.id=RP1A.201105.002
+ro.build.display.id=RP1A.201105.002
+ro.build.version.incremental=6869500
+ro.build.version.sdk=30 # SDK Unsafe
+ro.build.version.release=11
+ro.build.version.release_or_codename=11
+ro.build.version.security_patch=2020-11-05
+ro.build.date=Mon Sep 28 21:18:29 UTC 2020
+ro.build.date.utc=1601327909
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-01399
+ro.build.tags=release-keys
+ro.build.flavor=coral-user
+# ro.build.product is obsolete; use ro.product.device
+ro.build.product=coral
+# Do not try to parse description or thumbprint
+ro.build.description=coral-user 11 RP1A.201105.002 6869500 release-keys
+# end build properties
+
+# begin extra's from /system/build.prop
+ro.build.fingerprint=google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys
+ro.product.brand=google
+ro.product.device=coral
+ro.product.manufacturer=Google
+ro.product.model=Pixel 4 XL
+ro.product.name=coral
+# end extra's from /system/build.prop
+
+###
+# end system/system/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin system_ext/build.prop
+###
+
+# begin common build properties
+ro.system_ext.build.date=Mon Sep 28 21:18:29 UTC 2020
+ro.system_ext.build.date.utc=1601327909
+ro.system_ext.build.fingerprint=google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys
+ro.system_ext.build.id=RP1A.201105.002
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=6869500
+ro.system_ext.build.version.release=11
+ro.system_ext.build.version.release_or_codename=11
+ro.system_ext.build.version.sdk=30
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=coral
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 4 XL
+ro.product.system_ext.name=coral
+# end common build properties
+
+###
+# end system_ext/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin vendor/odm/etc/build.prop
+###
+
+# begin common build properties
+ro.odm.build.date=Mon Sep 28 21:18:29 UTC 2020
+ro.odm.build.date.utc=1601327909
+ro.odm.build.fingerprint=google/coral/coral:11/RP1A.201105.002/6869500:user/release-keys
+ro.odm.build.id=RP1A.201105.002
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=6869500
+ro.odm.build.version.release=11
+ro.odm.build.version.release_or_codename=11
+ro.odm.build.version.sdk=30
+ro.product.odm.brand=google
+ro.product.odm.device=coral
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Pixel 4 XL
+ro.product.odm.name=coral
+# end common build properties
+
+###
+# end vendor/odm/etc/build.prop
+###
