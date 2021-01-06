@@ -12,13 +12,13 @@
 ###
 
 # begin common build properties
-ro.product.build.date=Sat Oct 31 00:40:16 UTC 2020
-ro.product.build.date.utc=1604104816
-ro.product.build.fingerprint=google/coral/coral:11/RQ1A.201205.008/6943376:user/release-keys
-ro.product.build.id=RQ1A.201205.008
+ro.product.build.date=Wed Dec  2 00:11:56 UTC 2020
+ro.product.build.date.utc=1606867916
+ro.product.build.fingerprint=google/coral/coral:11/RQ1A.210105.003/7005429:user/release-keys
+ro.product.build.id=RQ1A.210105.003
 ro.product.build.tags=release-keys
 ro.product.build.type=user
-ro.product.build.version.incremental=6943376
+ro.product.build.version.incremental=7005429
 ro.product.build.version.release=11
 ro.product.build.version.release_or_codename=11
 ro.product.build.version.sdk=30
@@ -48,16 +48,16 @@ ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
 # begin vendor/build.prop
 ###
 
-ro.vendor.build.security_patch=2020-12-05
+ro.vendor.build.security_patch=2021-01-05
 
 # begin common build properties
-ro.vendor.build.date=Sat Oct 31 00:40:16 UTC 2020
-ro.vendor.build.date.utc=1604104816
-ro.vendor.build.fingerprint=google/coral/coral:11/RQ1A.201205.008/6943376:user/release-keys
-ro.vendor.build.id=RQ1A.201205.008
+ro.vendor.build.date=Wed Dec  2 00:11:56 UTC 2020
+ro.vendor.build.date.utc=1606867916
+ro.vendor.build.fingerprint=google/coral/coral:11/RQ1A.210105.003/7005429:user/release-keys
+ro.vendor.build.id=RQ1A.210105.003
 ro.vendor.build.tags=release-keys
 ro.vendor.build.type=user
-ro.vendor.build.version.incremental=6943376
+ro.vendor.build.version.incremental=7005429
 ro.vendor.build.version.release=11
 ro.vendor.build.version.release_or_codename=11
 ro.vendor.build.version.sdk=30
@@ -69,9 +69,9 @@ ro.product.vendor.name=coral
 # end common build properties
 
 # begin vendor/build.prop BOOTIMAGE_BUILD_PROPERTIES
-ro.bootimage.build.date=Sat Oct 31 00:40:16 UTC 2020
-ro.bootimage.build.date.utc=1604104816
-ro.bootimage.build.fingerprint=google/coral/coral:11/RQ1A.201205.008/6943376:user/release-keys
+ro.bootimage.build.date=Wed Dec 2 00:11:56 UTC 2020
+ro.bootimage.build.date.utc=1606867916
+ro.bootimage.build.fingerprint=google/coral/coral:11/RQ1A.210105.003/7005429:user/release-keys
 # end vendor/build.prop BOOTIMAGE_BUILD_PROPERTIES
 
 # begin ADDITIONAL VENDOR BUILD PROPERTIES
@@ -91,13 +91,13 @@ persist.rcs.supported=1
 ###
 
 # begin common build properties
-ro.system.build.date=Sat Oct 31 00:40:16 UTC 2020
-ro.system.build.date.utc=1604104816
-ro.system.build.fingerprint=google/coral/coral:11/RQ1A.201205.008/6943376:user/release-keys
-ro.system.build.id=RQ1A.201205.008
+ro.system.build.date=Wed Dec  2 00:11:56 UTC 2020
+ro.system.build.date.utc=1606867916
+ro.system.build.fingerprint=google/coral/coral:11/RQ1A.210105.003/7005429:user/release-keys
+ro.system.build.id=RQ1A.210105.003
 ro.system.build.tags=release-keys
 ro.system.build.type=user
-ro.system.build.version.incremental=6943376
+ro.system.build.version.incremental=7005429
 ro.system.build.version.release=11
 ro.system.build.version.release_or_codename=11
 ro.system.build.version.sdk=30
@@ -109,28 +109,28 @@ ro.product.system.name=mainline
 # end common build properties
 
 # begin build properties
-ro.build.id=RQ1A.201205.008
-ro.build.display.id=RQ1A.201205.008
-ro.build.version.incremental=6943376
+ro.build.id=RQ1A.210105.003
+ro.build.display.id=RQ1A.210105.003
+ro.build.version.incremental=7005429
 ro.build.version.sdk=30 # SDK Unsafe
 ro.build.version.release=11
 ro.build.version.release_or_codename=11
-ro.build.version.security_patch=2020-12-05
-ro.build.date=Sat Oct 31 00:40:16 UTC 2020
-ro.build.date.utc=1604104816
+ro.build.version.security_patch=2021-01-05
+ro.build.date=Wed Dec  2 00:11:56 UTC 2020
+ro.build.date.utc=1606867916
 ro.build.type=user
 ro.build.user=android-build
-ro.build.host=abfarm-00908
+ro.build.host=abfarm789
 ro.build.tags=release-keys
 ro.build.flavor=coral-user
 # ro.build.product is obsolete; use ro.product.device
 ro.build.product=coral
 # Do not try to parse description or thumbprint
-ro.build.description=coral-user 11 RQ1A.201205.008 6943376 release-keys
+ro.build.description=coral-user 11 RQ1A.210105.003 7005429 release-keys
 # end build properties
 
 # begin extra's from /system/build.prop
-ro.build.fingerprint=google/coral/coral:11/RQ1A.201205.008/6943376:user/release-keys
+ro.build.fingerprint=google/coral/coral:11/RQ1A.210105.003/7005429:user/release-keys
 ro.product.brand=google
 ro.product.device=coral
 ro.product.manufacturer=Google
@@ -151,13 +151,13 @@ ro.product.name=coral
 ###
 
 # begin common build properties
-ro.system_ext.build.date=Sat Oct 31 00:40:16 UTC 2020
-ro.system_ext.build.date.utc=1604104816
-ro.system_ext.build.fingerprint=google/coral/coral:11/RQ1A.201205.008/6943376:user/release-keys
-ro.system_ext.build.id=RQ1A.201205.008
+ro.system_ext.build.date=Wed Dec  2 00:11:56 UTC 2020
+ro.system_ext.build.date.utc=1606867916
+ro.system_ext.build.fingerprint=google/coral/coral:11/RQ1A.210105.003/7005429:user/release-keys
+ro.system_ext.build.id=RQ1A.210105.003
 ro.system_ext.build.tags=release-keys
 ro.system_ext.build.type=user
-ro.system_ext.build.version.incremental=6943376
+ro.system_ext.build.version.incremental=7005429
 ro.system_ext.build.version.release=11
 ro.system_ext.build.version.release_or_codename=11
 ro.system_ext.build.version.sdk=30
@@ -181,13 +181,13 @@ ro.product.system_ext.name=coral
 ###
 
 # begin common build properties
-ro.odm.build.date=Sat Oct 31 00:40:16 UTC 2020
-ro.odm.build.date.utc=1604104816
-ro.odm.build.fingerprint=google/coral/coral:11/RQ1A.201205.008/6943376:user/release-keys
-ro.odm.build.id=RQ1A.201205.008
+ro.odm.build.date=Wed Dec  2 00:11:56 UTC 2020
+ro.odm.build.date.utc=1606867916
+ro.odm.build.fingerprint=google/coral/coral:11/RQ1A.210105.003/7005429:user/release-keys
+ro.odm.build.id=RQ1A.210105.003
 ro.odm.build.tags=release-keys
 ro.odm.build.type=user
-ro.odm.build.version.incremental=6943376
+ro.odm.build.version.incremental=7005429
 ro.odm.build.version.release=11
 ro.odm.build.version.release_or_codename=11
 ro.odm.build.version.sdk=30
